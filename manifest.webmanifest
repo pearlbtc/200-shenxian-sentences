@@ -1,0 +1,17 @@
+{
+  "name": "可以支撑你很久的200句神仙句子 · 在线学习小工具",
+  "short_name": "200句神仙句子",
+  "description": "200句神仙句子在线学习：每日一练、自测闯关、收藏回顾，配央视风诵读。",
+  "lang": "zh-CN",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3e9d2",
+  "theme_color": "#7a5230",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
